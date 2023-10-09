@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://alexandre-kargar.github.io/expenseTracker/",
+  "homepage": "https://expense-tracker-app-fsad.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
